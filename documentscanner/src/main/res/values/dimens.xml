@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="activity_horizontal_margin">@dimen/_16sdp</dimen>
+    <dimen name="activity_vertical_margin">@dimen/_16sdp</dimen>
+    <dimen name="scanPadding">@dimen/_16sdp</dimen>
+    <dimen name="polygonViewCircleWidth">@dimen/_32sdp</dimen>
+    <dimen name="polygonViewStrokeWidth">@dimen/_2sdp</dimen>
+    <dimen name="bottom_bar_padding">@dimen/_15sdp</dimen>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DocumentScanner</string>
+    <string name="permission_storage_rationale">Storage permission is required for save scanned image.</string>
+</resources>
